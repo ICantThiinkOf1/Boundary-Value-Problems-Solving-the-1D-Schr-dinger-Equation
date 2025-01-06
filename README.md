@@ -6,9 +6,7 @@ This repository contains a Python-based exploration of boundary value problems a
 
 ## **Schrödinger Equation**
 The time-independent Schrödinger equation is given as:  
-\[
--\frac{\hbar^2}{2m} \frac{d^2\psi}{dx^2} + V(x)\psi(x) = E\psi(x)
-\]  
+(ħ² / 2m) * (d²ψ / dx²) + V(x)ψ(x) = Eψ(x)
 
 Where:  
 - **\( V(x) \)**: Potential of the electron  
@@ -76,9 +74,3 @@ Where:
 - Extension to 3D quantum systems.  
 - Flexible functions for analyzing arbitrary potential wells.  
 
----
-
-## **Usage**
-1. **Clone the repository**:  
-   ```bash
-   git clone https://github.com/<username>/<repository-name>.git
